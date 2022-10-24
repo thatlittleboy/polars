@@ -1,0 +1,6 @@
+﻿polars.testing.\_parametric.dataframes
+======================================
+
+.. currentmodule:: polars.testing._parametric
+
+.. autofunction:: dataframes
